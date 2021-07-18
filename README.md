@@ -36,7 +36,7 @@ docker-compose up --build
 
 URL BASE =`http://localhost:8080`
 
-[DOWNLOAD POSTMAN COLLECTION]()
+[DOWNLOAD POSTMAN COLLECTION](https://github.com/Juantorreal/zuporangetalents/tree/master/postman)
 
 * POST request to `/api/usuario/cadastrar` with a object as JSON creates a new "Usuario";
 * POST request to `/api/usuario/{usuarioId}/cadastrar-comic/{comicId}` with a usuarioId and comidId creates a new Comic;
